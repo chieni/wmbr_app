@@ -3,7 +3,7 @@
 //  WMBRApp
 //
 //  Created by Isabel Chien on 2/6/18.
-//  Copyright © 2018 Isabel Chien. All rights reserved.
+//  Copyright © 2018 WMBR. All rights reserved.
 //
 
 import UIKit
